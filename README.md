@@ -39,13 +39,13 @@ flutter run
 ### Project Structure
 ```
 lib/
-  ├── models/        # Data models
-  ├── pages/       # UI screens
-  ├── widgets/       # Reusable widgets
-  ├── services/      # Business logic
-  ├── utils/         # Helper functions
-  └── main.dart      # Entry point
-  |___ components/     # Reusable components
+  |--  models/       # Data models
+  |-- pages/         # UI screens
+  ├-- widgets/       # Reusable widgets
+  |-- services/      # Business logic
+  |-- utils/         # Helper functions
+  |-- main.dart      # Entry point
+  |__ components/    # Reusable components
 ```
 
 ### Inspiration & Credits
